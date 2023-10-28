@@ -1,2 +1,2 @@
-Loands
+Loans
 loans-aj.netlify.app
