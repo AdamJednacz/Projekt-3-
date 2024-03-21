@@ -136,7 +136,9 @@ ul{
     text-align: left;
 
 }
-
+.icons__item{
+    position: relative;
+}
 .icons__item:nth-child(1)::before{
 
     font-family: 'Font Awesome 5 Free', serif;
@@ -145,7 +147,7 @@ ul{
     font-weight: 700;
     color:var(--accent-color) ;
     position: absolute;
-    top:520px;
+    top:-50px
 
 }
 .icons__item:nth-child(2):before{
@@ -156,7 +158,7 @@ ul{
     font-weight: 700;
     color:var(--accent-color) ;
     position: absolute;
-    top:520px;
+    top:-50px
 }
 .icons__item:nth-child(3):before{
 
@@ -166,7 +168,7 @@ ul{
     font-weight: 700;
     color:var(--accent-color) ;
     position: absolute;
-    top:520px;
+    top:-50px
 }
 /*form*/
 

@@ -23,6 +23,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2OojoBx9GJ1dvINLsXarecVw9YD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/adamj/Desktop/Kurs/PortableGit/PROJEKTY/projekt-3/Projekt-3-",
+    "last_opened_file_path": "D:/Programowanie Projekty Dysk D/PortableGit/PROJEKTY/Projekt-3-",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,6 +72,7 @@
       <workItem from="1684859999168" duration="96000" />
       <workItem from="1684860285086" duration="182000" />
       <workItem from="1686838331995" duration="96000" />
+      <workItem from="1711044774383" duration="181000" />
     </task>
     <servers />
   </component>
